@@ -17,18 +17,18 @@
     }
   },
   "dependencies": {
-    "@vercel/analytics": "^1.0.0",
+    "@vercel/analytics": "^1.0.1",
     "ci": "^2.2.0",
     "husky": "^8.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.11.0"
+    "react-router-dom": "^6.11.1"
   },
   "devDependencies": {
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^8.0.7",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.1",
+    "@types/react": "^18.2.2",
+    "@types/react-dom": "^18.2.3",
     "@vitejs/plugin-react-swc": "^3.3.0",
     "autoprefixer": "^10.4.14",
     "husky": "^8.0.3",
