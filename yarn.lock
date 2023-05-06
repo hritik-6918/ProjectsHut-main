@@ -427,10 +427,10 @@
     "@octokit/types" "^9.0.0"
     universal-user-agent "^6.0.0"
 
-"@octokit/openapi-types@^17.1.0":
-  version "17.1.0"
-  resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-17.1.0.tgz#9a712b5bb9d644940d8a1f24115c798c317a64a5"
-  integrity sha512-rnI26BAITDZTo5vqFOmA7oX4xRd18rO+gcK4MiTpJmsRMxAw0JmevNjPsjpry1bb9SVNo56P/0kbiyXXa4QluA==
+"@octokit/openapi-types@^17.1.1":
+  version "17.1.1"
+  resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-17.1.1.tgz#b046979537d4209954206d29fbf9fe6893c5acec"
+  integrity sha512-/X7Gh/qWiWaooJmUnYD48SYy72fyrk2ceisOSe89JojK7r0j8YrTwYpDi76kI+c6QiqX1KSgdoBTMJvktsDkYw==
 
 "@octokit/plugin-paginate-rest@^6.0.0":
   version "6.0.0"
@@ -484,11 +484,11 @@
     "@octokit/plugin-rest-endpoint-methods" "^7.0.0"
 
 "@octokit/types@^9.0.0":
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-9.2.0.tgz#0358e3de070b1d43c5a8af63b9951c88a09fc9ed"
-  integrity sha512-xySzJG4noWrIBFyMu4lg4tu9vAgNg9S0aoLRONhAEz6ueyi1evBzb40HitIosaYS4XOexphG305IVcLrIX/30g==
+  version "9.2.1"
+  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-9.2.1.tgz#34ab724b66ffbe210604593127bb47fd044abbc7"
+  integrity sha512-Vx4keMiD/CAiwVFasLcH0xBSVbKIHebIZke9i7ZbUWGNN4vJFWSYH6Nvga7UY9NIJCGa6x3QG849XTbi5wYmkA==
   dependencies:
-    "@octokit/openapi-types" "^17.1.0"
+    "@octokit/openapi-types" "^17.1.1"
 
 "@pkgjs/parseargs@^0.11.0":
   version "0.11.0"
@@ -714,10 +714,10 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
-"@types/react-dom@^18.2.3":
-  version "18.2.3"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.2.3.tgz#2fe492bb0e67047b7b43e18166d8f50d44e0525e"
-  integrity sha512-hxXEXWxFJXbY0LMj/T69mznqOZJXNtQMqVxIiirVAZnnpeYiD4zt+lPsgcr/cfWg2VLsxZ1y26vigG03prYB+Q==
+"@types/react-dom@^18.2.4":
+  version "18.2.4"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.2.4.tgz#13f25bfbf4e404d26f62ac6e406591451acba9e0"
+  integrity sha512-G2mHoTMTL4yoydITgOGwWdWMVd8sNgyEP85xVmMKAPUBwQWm9wBPQUmvbeF4V3WBY1P7mmL4BkjQ0SqUpf1snw==
   dependencies:
     "@types/react" "*"
 
@@ -1450,9 +1450,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.383"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.383.tgz#61f44a9bb55957b1bb1236704ca53f7214f7a941"
-  integrity sha512-BQyvFauIMzCJqILViJNs0kIBEAlx1bYLS5CRLyJtlun1KAnZlhNSgyfyWifPWagQ5s8KYPY6BpNHZsEMkxZAQQ==
+  version "1.4.385"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.385.tgz#1afd8d6280d510145148777b899ff481c65531ff"
+  integrity sha512-L9zlje9bIw0h+CwPQumiuVlfMcV4boxRjFIWDcLfFqTZNbkwOExBzfmswytHawObQX4OUhtNv8gIiB21kOurIg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -3701,9 +3701,9 @@ rimraf@^3.0.2:
     glob "^7.1.3"
 
 rollup@^3.21.0:
-  version "3.21.4"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.21.4.tgz#61af40f1d48d0d04fb20114af73db7367f7151fa"
-  integrity sha512-N5LxpvDolOm9ueiCp4NfB80omMDqb45ShtsQw2+OT3f11uJ197dv703NZvznYHP6RWR85wfxanXurXKG3ux2GQ==
+  version "3.21.5"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.21.5.tgz#1fbae43dc1079497b04604707f1cf979e51bfe49"
+  integrity sha512-a4NTKS4u9PusbUJcfF4IMxuqjFzjm6ifj76P54a7cKnvVzJaG12BLVR+hgU2YDGHzyMMQNxLAZWuALsn8q2oQg==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -4326,10 +4326,10 @@ validate-npm-package-name@^5.0.0:
   dependencies:
     builtins "^5.0.0"
 
-vite@^4.3.4:
-  version "4.3.4"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.4.tgz#1c518d763d5a700d890c3a19ab59220f06e7a7d5"
-  integrity sha512-f90aqGBoxSFxWph2b39ae2uHAxm5jFBBdnfueNxZAT1FTpM13ccFQExCaKbR2xFW5atowjleRniQ7onjJ22QEg==
+vite@^4.3.5:
+  version "4.3.5"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-4.3.5.tgz#3871fe0f4b582ea7f49a85386ac80e84826367d9"
+  integrity sha512-0gEnL9wiRFxgz40o/i/eTBwm+NEbpUeTWhzKrZDSdKm6nplj+z4lKz8ANDgildxHm47Vg8EUia0aicKbawUVVA==
   dependencies:
     esbuild "^0.17.5"
     postcss "^8.4.23"
