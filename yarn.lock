@@ -505,9 +505,9 @@
   integrity sha512-bV63itrKBC0zdT27qYm6SDZHlkXwFL1xMBuhkn+X7l0+IIhNaH5wuuvZKp6eKhCD4KFhujhfhCT1YxXW6esUIA==
 
 "@semantic-release/commit-analyzer@^11.0.0-beta.3":
-  version "11.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/@semantic-release/commit-analyzer/-/commit-analyzer-11.0.0-beta.3.tgz#2af885a97809d4118a1fe57c37d580083fc07124"
-  integrity sha512-Qxwi5CpAtTBfGspH68HBSA/sqRl+JUNV+WF0QAjGG5E9v0BBNxCkzY7J+qSFVQNt40wFOxXF4VTKagA2rdB81A==
+  version "11.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/@semantic-release/commit-analyzer/-/commit-analyzer-11.0.0-beta.4.tgz#e50d3fbad69ee9f8a315a4a369845504ffbfc42b"
+  integrity sha512-K6HkgFadJ+imAc0n2P9sLjrEw+xAPqigsu6RS+wCUqc6et2J7ig8uJ4hqujXsXHZLtsKQt/5yjw0t3FjcvseIA==
   dependencies:
     conventional-changelog-angular "^7.0.0"
     conventional-commits-filter "^4.0.0"
@@ -583,9 +583,9 @@
     tempy "^3.0.0"
 
 "@semantic-release/release-notes-generator@^12.0.0-beta.2":
-  version "12.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/@semantic-release/release-notes-generator/-/release-notes-generator-12.0.0-beta.2.tgz#c17e1a7646b1a983dc94e106bff05b0be3db71a7"
-  integrity sha512-r0C5swcrl2JLCA/zFj2+pGnHxjD3FI/lC4bvqJkVJA0CN6BExrOQ1XP9fOJVt9147GoE4wKpEA9SBNgxrC3Xug==
+  version "12.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/@semantic-release/release-notes-generator/-/release-notes-generator-12.0.0-beta.3.tgz#eb65d10174a8ea7c4562989bf5dd900c284e1c66"
+  integrity sha512-87tr1FqBTCDIyfiqPTJrRU/aANzaekmhtgBV/nm2D3WCDp6Wr9PydsFOTSTL+H7LZZKDZANsRv9UGRSBEPvtRQ==
   dependencies:
     conventional-changelog-angular "^7.0.0"
     conventional-changelog-writer "^7.0.0"
